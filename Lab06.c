@@ -1,6 +1,6 @@
+/*Mert Korkmaz*/
 #include <stdio.h>
 #include <math.h>
-/*Mert Korkmaz 270206029*/
 #define start 0.0
 #define end 10.0
 #define pi 3.142857
